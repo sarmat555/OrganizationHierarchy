@@ -1,0 +1,11 @@
+C:\MyProjects\Organizations\Organizations.Contracts\bin\Debug\net8.0\Organizations.Contracts.deps.json
+C:\MyProjects\Organizations\Organizations.Contracts\bin\Debug\net8.0\Organizations.Contracts.dll
+C:\MyProjects\Organizations\Organizations.Contracts\bin\Debug\net8.0\Organizations.Contracts.pdb
+C:\MyProjects\Organizations\Organizations.Contracts\obj\Debug\net8.0\Organizations.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\Organizations\Organizations.Contracts\obj\Debug\net8.0\Organizations.Contracts.AssemblyInfoInputs.cache
+C:\MyProjects\Organizations\Organizations.Contracts\obj\Debug\net8.0\Organizations.Contracts.AssemblyInfo.cs
+C:\MyProjects\Organizations\Organizations.Contracts\obj\Debug\net8.0\Organizations.Contracts.csproj.CoreCompileInputs.cache
+C:\MyProjects\Organizations\Organizations.Contracts\obj\Debug\net8.0\Organizations.Contracts.dll
+C:\MyProjects\Organizations\Organizations.Contracts\obj\Debug\net8.0\refint\Organizations.Contracts.dll
+C:\MyProjects\Organizations\Organizations.Contracts\obj\Debug\net8.0\Organizations.Contracts.pdb
+C:\MyProjects\Organizations\Organizations.Contracts\obj\Debug\net8.0\ref\Organizations.Contracts.dll

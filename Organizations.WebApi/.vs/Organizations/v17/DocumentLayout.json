@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyProjects\\Organizations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi.csproj|c:\\myprojects\\organizations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi.csproj|c:\\myprojects\\organizations\\appstart\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi.csproj|solutionrelative:appstart\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C35E38-B4E1-4FD2-AD4A-B2C6E72F6B98}|Organizations.Application\\Organizations.Application.csproj|c:\\myprojects\\organizations\\organizations.application\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C35E38-B4E1-4FD2-AD4A-B2C6E72F6B98}|Organizations.Application\\Organizations.Application.csproj|solutionrelative:organizations.application\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD1A85-C1B6-4B9F-906A-423DAFE9E736}|Organizations.Domain\\Organizations.Domain.csproj|c:\\myprojects\\organizations\\organizations.domain\\organizations\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD1A85-C1B6-4B9F-906A-423DAFE9E736}|Organizations.Domain\\Organizations.Domain.csproj|solutionrelative:organizations.domain\\organizations\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbExtensions.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\AppStart\\DbExtensions.cs",
+              "RelativeDocumentMoniker": "AppStart\\DbExtensions.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\AppStart\\DbExtensions.cs",
+              "RelativeToolTip": "AppStart\\DbExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:34:53.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:34:23.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Application\\Context\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Organizations.Application\\Context\\ApplicationContext.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Application\\Context\\ApplicationContext.cs",
+              "RelativeToolTip": "Organizations.Application\\Context\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:28:16.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Domain\\Organizations\\Organization.cs",
+              "RelativeDocumentMoniker": "Organizations.Domain\\Organizations\\Organization.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Domain\\Organizations\\Organization.cs",
+              "RelativeToolTip": "Organizations.Domain\\Organizations\\Organization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:18:59.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

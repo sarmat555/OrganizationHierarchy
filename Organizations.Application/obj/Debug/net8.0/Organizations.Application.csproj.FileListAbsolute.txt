@@ -1,0 +1,17 @@
+C:\MyProjects\Organizations\Organizations.Application\bin\Debug\net8.0\Organizations.Application.deps.json
+C:\MyProjects\Organizations\Organizations.Application\bin\Debug\net8.0\Organizations.Application.dll
+C:\MyProjects\Organizations\Organizations.Application\bin\Debug\net8.0\Organizations.Application.pdb
+C:\MyProjects\Organizations\Organizations.Application\bin\Debug\net8.0\Organizations.Contracts.dll
+C:\MyProjects\Organizations\Organizations.Application\bin\Debug\net8.0\Organizations.Domain.dll
+C:\MyProjects\Organizations\Organizations.Application\bin\Debug\net8.0\Organizations.Domain.pdb
+C:\MyProjects\Organizations\Organizations.Application\bin\Debug\net8.0\Organizations.Contracts.pdb
+C:\MyProjects\Organizations\Organizations.Application\obj\Debug\net8.0\Organizations.Application.csproj.AssemblyReference.cache
+C:\MyProjects\Organizations\Organizations.Application\obj\Debug\net8.0\Organizations.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\Organizations\Organizations.Application\obj\Debug\net8.0\Organizations.Application.AssemblyInfoInputs.cache
+C:\MyProjects\Organizations\Organizations.Application\obj\Debug\net8.0\Organizations.Application.AssemblyInfo.cs
+C:\MyProjects\Organizations\Organizations.Application\obj\Debug\net8.0\Organizations.Application.csproj.CoreCompileInputs.cache
+C:\MyProjects\Organizations\Organizations.Application\obj\Debug\net8.0\Organiza.B95BCDB4.Up2Date
+C:\MyProjects\Organizations\Organizations.Application\obj\Debug\net8.0\Organizations.Application.dll
+C:\MyProjects\Organizations\Organizations.Application\obj\Debug\net8.0\refint\Organizations.Application.dll
+C:\MyProjects\Organizations\Organizations.Application\obj\Debug\net8.0\Organizations.Application.pdb
+C:\MyProjects\Organizations\Organizations.Application\obj\Debug\net8.0\ref\Organizations.Application.dll

@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyProjects\\Organizations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi\\Organizations.WebApi.csproj|c:\\myprojects\\organizations\\organizations.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi\\Organizations.WebApi.csproj|solutionrelative:organizations.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi\\Organizations.WebApi.csproj|c:\\myprojects\\organizations\\organizations.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi\\Organizations.WebApi.csproj|solutionrelative:organizations.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi\\Organizations.WebApi.csproj|c:\\myprojects\\organizations\\organizations.webapi\\controllers\\organizationstransfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi\\Organizations.WebApi.csproj|solutionrelative:organizations.webapi\\controllers\\organizationstransfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|c:\\myprojects\\organizations\\organizations.contracts\\services\\iorganizationimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|solutionrelative:organizations.contracts\\services\\iorganizationimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi\\Organizations.WebApi.csproj|c:\\myprojects\\organizations\\organizations.webapi\\controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi\\Organizations.WebApi.csproj|solutionrelative:organizations.webapi\\controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|c:\\myprojects\\organizations\\organizations.contracts\\services\\iorganizationmoveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|solutionrelative:organizations.contracts\\services\\iorganizationmoveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi\\Organizations.WebApi.csproj|c:\\myprojects\\organizations\\organizations.webapi\\appstart\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi\\Organizations.WebApi.csproj|solutionrelative:organizations.webapi\\appstart\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C35E38-B4E1-4FD2-AD4A-B2C6E72F6B98}|Organizations.Application\\Organizations.Application.csproj|c:\\myprojects\\organizations\\organizations.application\\services\\organizationimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C35E38-B4E1-4FD2-AD4A-B2C6E72F6B98}|Organizations.Application\\Organizations.Application.csproj|solutionrelative:organizations.application\\services\\organizationimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C35E38-B4E1-4FD2-AD4A-B2C6E72F6B98}|Organizations.Application\\Organizations.Application.csproj|c:\\myprojects\\organizations\\organizations.application\\services\\organizationexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C35E38-B4E1-4FD2-AD4A-B2C6E72F6B98}|Organizations.Application\\Organizations.Application.csproj|solutionrelative:organizations.application\\services\\organizationexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|c:\\myprojects\\organizations\\organizations.contracts\\services\\iorganizationexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|solutionrelative:organizations.contracts\\services\\iorganizationexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C35E38-B4E1-4FD2-AD4A-B2C6E72F6B98}|Organizations.Application\\Organizations.Application.csproj|c:\\myprojects\\organizations\\organizations.application\\services\\organizationmoveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C35E38-B4E1-4FD2-AD4A-B2C6E72F6B98}|Organizations.Application\\Organizations.Application.csproj|solutionrelative:organizations.application\\services\\organizationmoveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|c:\\myprojects\\organizations\\organizations.contracts\\models\\organizationtreeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|solutionrelative:organizations.contracts\\models\\organizationtreeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|c:\\myprojects\\organizations\\organizations.contracts\\models\\organizationmovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|solutionrelative:organizations.contracts\\models\\organizationmovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|c:\\myprojects\\organizations\\organizations.contracts\\models\\treenodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|solutionrelative:organizations.contracts\\models\\treenodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C35E38-B4E1-4FD2-AD4A-B2C6E72F6B98}|Organizations.Application\\Organizations.Application.csproj|c:\\myprojects\\organizations\\organizations.application\\services\\organizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C35E38-B4E1-4FD2-AD4A-B2C6E72F6B98}|Organizations.Application\\Organizations.Application.csproj|solutionrelative:organizations.application\\services\\organizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C35E38-B4E1-4FD2-AD4A-B2C6E72F6B98}|Organizations.Application\\Organizations.Application.csproj|c:\\myprojects\\organizations\\organizations.application\\services\\abstractions\\classifierbaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C35E38-B4E1-4FD2-AD4A-B2C6E72F6B98}|Organizations.Application\\Organizations.Application.csproj|solutionrelative:organizations.application\\services\\abstractions\\classifierbaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD1A85-C1B6-4B9F-906A-423DAFE9E736}|Organizations.Domain\\Organizations.Domain.csproj|c:\\myprojects\\organizations\\organizations.domain\\abstractions\\classifierentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD1A85-C1B6-4B9F-906A-423DAFE9E736}|Organizations.Domain\\Organizations.Domain.csproj|solutionrelative:organizations.domain\\abstractions\\classifierentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD1A85-C1B6-4B9F-906A-423DAFE9E736}|Organizations.Domain\\Organizations.Domain.csproj|c:\\myprojects\\organizations\\organizations.domain\\organizations\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD1A85-C1B6-4B9F-906A-423DAFE9E736}|Organizations.Domain\\Organizations.Domain.csproj|solutionrelative:organizations.domain\\organizations\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi\\Organizations.WebApi.csproj|c:\\myprojects\\organizations\\organizations.webapi\\controllers\\classifierbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA390D9E-B3A2-4843-8BFD-7777F400808F}|Organizations.WebApi\\Organizations.WebApi.csproj|solutionrelative:organizations.webapi\\controllers\\classifierbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|c:\\myprojects\\organizations\\organizations.contracts\\models\\abstractions\\iclassifierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|solutionrelative:organizations.contracts\\models\\abstractions\\iclassifierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|c:\\myprojects\\organizations\\organizations.contracts\\models\\classifierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6108E38E-EAD2-4327-91C0-1EF2982608D2}|Organizations.Contracts\\Organizations.Contracts.csproj|solutionrelative:organizations.contracts\\models\\classifierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrganizationsController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.WebApi\\Controllers\\OrganizationsController.cs",
+              "RelativeDocumentMoniker": "Organizations.WebApi\\Controllers\\OrganizationsController.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.WebApi\\Controllers\\OrganizationsController.cs",
+              "RelativeToolTip": "Organizations.WebApi\\Controllers\\OrganizationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:01:05.079Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrganizationService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Application\\Services\\OrganizationService.cs",
+              "RelativeDocumentMoniker": "Organizations.Application\\Services\\OrganizationService.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Application\\Services\\OrganizationService.cs",
+              "RelativeToolTip": "Organizations.Application\\Services\\OrganizationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:47:33.837Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Organizations.WebApi\\appsettings.json",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.WebApi\\appsettings.json",
+              "RelativeToolTip": "Organizations.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T21:49:52.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Organizations.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Organizations.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T21:49:45.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrganizationsTransferController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.WebApi\\Controllers\\OrganizationsTransferController.cs",
+              "RelativeDocumentMoniker": "Organizations.WebApi\\Controllers\\OrganizationsTransferController.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.WebApi\\Controllers\\OrganizationsTransferController.cs",
+              "RelativeToolTip": "Organizations.WebApi\\Controllers\\OrganizationsTransferController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:45:59.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrganizationExportService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Application\\Services\\OrganizationExportService.cs",
+              "RelativeDocumentMoniker": "Organizations.Application\\Services\\OrganizationExportService.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Application\\Services\\OrganizationExportService.cs",
+              "RelativeToolTip": "Organizations.Application\\Services\\OrganizationExportService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:38:50.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrganizationImportService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Application\\Services\\OrganizationImportService.cs",
+              "RelativeDocumentMoniker": "Organizations.Application\\Services\\OrganizationImportService.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Application\\Services\\OrganizationImportService.cs",
+              "RelativeToolTip": "Organizations.Application\\Services\\OrganizationImportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:38:37.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrganizationImportService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Services\\IOrganizationImportService.cs",
+              "RelativeDocumentMoniker": "Organizations.Contracts\\Services\\IOrganizationImportService.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Services\\IOrganizationImportService.cs",
+              "RelativeToolTip": "Organizations.Contracts\\Services\\IOrganizationImportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:37:03.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrganizationExportService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Services\\IOrganizationExportService.cs",
+              "RelativeDocumentMoniker": "Organizations.Contracts\\Services\\IOrganizationExportService.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Services\\IOrganizationExportService.cs",
+              "RelativeToolTip": "Organizations.Contracts\\Services\\IOrganizationExportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:36:43.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.WebApi\\AppStart\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Organizations.WebApi\\AppStart\\ConfigureServices.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.WebApi\\AppStart\\ConfigureServices.cs",
+              "RelativeToolTip": "Organizations.WebApi\\AppStart\\ConfigureServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:35:12.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrganizationMoveService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Application\\Services\\OrganizationMoveService.cs",
+              "RelativeDocumentMoniker": "Organizations.Application\\Services\\OrganizationMoveService.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Application\\Services\\OrganizationMoveService.cs",
+              "RelativeToolTip": "Organizations.Application\\Services\\OrganizationMoveService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:30:55.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrganizationMoveDto.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Models\\OrganizationMoveDto.cs",
+              "RelativeDocumentMoniker": "Organizations.Contracts\\Models\\OrganizationMoveDto.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Models\\OrganizationMoveDto.cs",
+              "RelativeToolTip": "Organizations.Contracts\\Models\\OrganizationMoveDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:26:07.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrganizationMoveService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Services\\IOrganizationMoveService.cs",
+              "RelativeDocumentMoniker": "Organizations.Contracts\\Services\\IOrganizationMoveService.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Services\\IOrganizationMoveService.cs",
+              "RelativeToolTip": "Organizations.Contracts\\Services\\IOrganizationMoveService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:25:06.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClassifierEntry.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Domain\\Abstractions\\ClassifierEntry.cs",
+              "RelativeDocumentMoniker": "Organizations.Domain\\Abstractions\\ClassifierEntry.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Domain\\Abstractions\\ClassifierEntry.cs",
+              "RelativeToolTip": "Organizations.Domain\\Abstractions\\ClassifierEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:17:11.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClassifierBaseController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.WebApi\\Controllers\\ClassifierBaseController.cs",
+              "RelativeDocumentMoniker": "Organizations.WebApi\\Controllers\\ClassifierBaseController.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.WebApi\\Controllers\\ClassifierBaseController.cs",
+              "RelativeToolTip": "Organizations.WebApi\\Controllers\\ClassifierBaseController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvx0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:13:06.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClassifierBaseService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Application\\Services\\Abstractions\\ClassifierBaseService.cs",
+              "RelativeDocumentMoniker": "Organizations.Application\\Services\\Abstractions\\ClassifierBaseService.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Application\\Services\\Abstractions\\ClassifierBaseService.cs",
+              "RelativeToolTip": "Organizations.Application\\Services\\Abstractions\\ClassifierBaseService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:12:43.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IClassifierDto.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Models\\Abstractions\\IClassifierDto.cs",
+              "RelativeDocumentMoniker": "Organizations.Contracts\\Models\\Abstractions\\IClassifierDto.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Models\\Abstractions\\IClassifierDto.cs",
+              "RelativeToolTip": "Organizations.Contracts\\Models\\Abstractions\\IClassifierDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:12:32.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClassifierDto.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Models\\ClassifierDto.cs",
+              "RelativeDocumentMoniker": "Organizations.Contracts\\Models\\ClassifierDto.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Models\\ClassifierDto.cs",
+              "RelativeToolTip": "Organizations.Contracts\\Models\\ClassifierDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:12:19.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TreeNodeDto.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Models\\TreeNodeDto.cs",
+              "RelativeDocumentMoniker": "Organizations.Contracts\\Models\\TreeNodeDto.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Models\\TreeNodeDto.cs",
+              "RelativeToolTip": "Organizations.Contracts\\Models\\TreeNodeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:09:15.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrganizationTreeItem.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Models\\OrganizationTreeItem.cs",
+              "RelativeDocumentMoniker": "Organizations.Contracts\\Models\\OrganizationTreeItem.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Contracts\\Models\\OrganizationTreeItem.cs",
+              "RelativeToolTip": "Organizations.Contracts\\Models\\OrganizationTreeItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:07:34.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Organizations\\Organizations.Domain\\Organizations\\Organization.cs",
+              "RelativeDocumentMoniker": "Organizations.Domain\\Organizations\\Organization.cs",
+              "ToolTip": "C:\\MyProjects\\Organizations\\Organizations.Domain\\Organizations\\Organization.cs",
+              "RelativeToolTip": "Organizations.Domain\\Organizations\\Organization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:55:08.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
